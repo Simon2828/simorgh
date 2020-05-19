@@ -1,0 +1,424 @@
+{
+  "content": {
+    "blocks": [
+      {
+        "altText": "Test caption for first image",
+        "caption": "Test caption for image 1",
+        "copyrightHolder": "BBC",
+        "height": 549,
+        "href": "http://b.files.bbci.co.uk/1045D/test/_63735666_3.jpg",
+        "id": "63735666",
+        "path": "/cpsdevpb/1045D/test/_63735666_3.jpg",
+        "positionHint": "full-width",
+        "subType": "body",
+        "type": "image",
+        "width": 976
+      },
+      {
+        "markupType": "plain_text",
+        "role": "introduction",
+        "text": "Introduction Dr Matshidiso Moeti ukuriye OMS/WHO muri Afurika yabwiye abanyamakuru ko ubu bari kuvana abakozi bayo birukanwe mu Burundi nyuma y'uko leta ivuze ko badashaka mugihugu.",
+        "type": "paragraph"
+      },
+      {
+        "markupType": "plain_text",
+        "text": "Paragraph Mu kiganiro n'abanyamakuru muri World Economic Forum, Madamu Moeti yagize ati: &quot;Ntabwo tuzi impamvu bafashe icyo cyemezo ariko turi gufatanya n'abakozi ba UN muri icyo gihugu ngo bafashe bagenzi bacu kuhava&quot;.",
+        "type": "paragraph"
+      },
+      {
+        "markupType": "plain_text",
+        "text": "Crosshead",
+        "type": "crosshead"
+      },
+      {
+        "markupType": "candy_xml",
+        "text": "Inyandiko iboneka ku mbuga nkoranyambaga ya ministeri y'ububanyi n'amahanga y'u Burundi imenyesha ko abantu bane (4) barimo uhagarariye ishami <bold>ry'umuryango w'abibumbye ryita ku buzima OMS/WHO </bold>mu Burundi &quot;badakenewe&quot; mu gihugu.",
+        "type": "paragraph"
+      },
+      {
+        "href": "/news/special/idt/syndicated/quiz.inc?id=sport_weekly_quiz_week14&apps=false",
+        "platform": "highweb",
+        "required": false,
+        "title": "Visual journalism include",
+        "type": "include"
+      },
+      {
+        "markupType": "candy_xml",
+        "text": "Inyandiko igaragara nk'iyanditswe n'iyi <italic>minisiteri imenyesha ko </italic>Dr Walter Kazadi Mulombo uhagarariye OMS mu Burundi, Pr. Tarzy Daniel, <bold><italic>Dr Ruhana Mirindi Bisimwa na Dr Jean Pierre Murunda Nkata </italic></bold>bategetswe kuva ku butaka bw'u Burundi mbere ya tariki 15/05/2020.",
+        "type": "paragraph"
+      },
+      {
+        "items": [
+          {
+            "markupType": "candy_xml",
+            "text": "<link><caption>Bulleted list: Burundi: Leta yaba iri gukina n'igisasu cya virus?</caption><altText>External link</altText><url href=\"http://www.google.com\" platform=\"highweb\"/></link>",
+            "type": "listItem"
+          },
+          {
+            "markupType": "plain_text",
+            "text": "ONU iti 'ntitwizeye u Burundi kuri coronavirus' nabwo buti 'mushaka gutoba'",
+            "type": "listItem"
+          },
+          {
+            "markupType": "candy_xml",
+            "text": "<link><caption>Burundi: Umuvugizi wa Perezida yizeye ko Imana izabarinda coronavirus</caption><altText>An internal link</altText><url href=\"https://www.bbc.com/gahuza/51971863\" platform=\"highweb\"/></link>",
+            "type": "listItem"
+          }
+        ],
+        "numbered": false,
+        "type": "list"
+      },
+      {
+        "altText": "Prince Charles",
+        "caption": "Prince Charles at a party",
+        "copyrightHolder": "Getty Images",
+        "height": 1546,
+        "href": "http://b.files.bbci.co.uk/1527D/test/_63735668_hi000087716.jpg",
+        "id": "63735668",
+        "path": "/cpsdevpb/1527D/test/_63735668_hi000087716.jpg",
+        "positionHint": "full-width",
+        "subType": "body",
+        "type": "image",
+        "width": 1546
+      },
+      {
+        "markupType": "plain_text",
+        "text": "Subheading",
+        "type": "heading"
+      },
+      {
+        "markupType": "plain_text",
+        "text": "Paragraph Umwe mu bakozi ba minisiteri y'ububanyi n'amahanga utifuje gutangazwa yemereye BBC ko iriya nyandiko ari iy'ukuri kandi ari iya minisiteri y'ububanyi n'amahanga.",
+        "type": "paragraph"
+      },
+      {
+        "markupType": "plain_text",
+        "text": "Mu Burundi leta ivuga ko hamaze kuboneka abantu 27 banduye coronavirus 11 bayikize n'umwe yishe.",
+        "type": "paragraph"
+      },
+      {
+        "markupType": "plain_text",
+        "text": "Paragraph before AV. Mu Burundi leta ivuga ko hamaze kuboneka abantu 27 banduye coronavirus 11 bayikize n'umwe yishe.",
+        "type": "paragraph"
+      },
+      {
+        "advertising": true,
+        "caption": "They may be tiny, but us humans could learn a thing or two from ants.",
+        "embedding": true,
+        "format": "video",
+        "id": "p01k6msm",
+        "imageCopyright": "BBC",
+        "imageUrl": "ichef.test.bbci.co.uk/images/ic/$recipe/p01k6mtv.jpg",
+        "subType": "clip",
+        "synopses": {
+          "short": "They may be tiny, but us humans could learn a thing or two from ants."
+        },
+        "title": "Five things ants can teach us about management",
+        "type": "media",
+        "versions": [
+          {
+            "availableFrom": 1540218932000,
+            "availableTerritories": {
+              "nonUk": true,
+              "uk": true,
+              "world": false
+            },
+            "duration": 191,
+            "durationISO8601": "PT3M11S",
+            "types": [
+              "Original"
+            ],
+            "versionId": "p01k6msp",
+            "warnings": {
+              "long": "Contains strong language and adult humour.",
+              "short": "Contains strong language and adult humour."
+            }
+          }
+        ]
+      },
+      {
+        "markupType": "plain_text",
+        "text": "Aho iyi ndwara imaze kugera bahagaritse amashuri, amakoraniro y'abasenga, ingendo nyinshi z'indege, inama zihuza abantu benshi banashishikariza abantu kwirinda guhurira ahari abantu benshi.",
+        "type": "paragraph"
+      },
+      {
+        "altText": "Centre Court at Wimbledon",
+        "caption": "This image is a random shape",
+        "copyrightHolder": "BBC",
+        "height": 549,
+        "href": "http://b.files.bbci.co.uk/C9C5/test/_63735615_tv000050092.jpg",
+        "id": "63735615",
+        "path": "/cpsdevpb/C9C5/test/_63735615_tv000050092.jpg",
+        "positionHint": "full-width",
+        "subType": "body",
+        "type": "image",
+        "width": 700
+      },
+      {
+        "markupType": "plain_text",
+        "text": "Mu gihe hakomeje ibikorwa byo kwiyamamaza bihuza abantu benshi cyane begeranye, hari abagaragaza impungenge ko iki cyorezo gishobora kwiyongera mu gihugu.",
+        "type": "paragraph"
+      },
+      {
+        "href": "/idt2/ae805ced-e912-4f89-a9f5-105510946fad",
+        "idt2": {
+          "altText": "Chart title (0.15.6). Chart sub title.  This is a footnote text.",
+          "copyrightHolder": "Source: Getty",
+          "dimensions": {
+            "large": {
+              "height": 1354,
+              "href": "https://smallprox.vj.test.tools.bbc.co.uk/idt2/ae805ced-e912-4f89-a9f5-105510946fad/image/816",
+              "width": 1632
+            },
+            "medium": {
+              "height": 964,
+              "href": "https://smallprox.vj.test.tools.bbc.co.uk/idt2/ae805ced-e912-4f89-a9f5-105510946fad/image/470",
+              "width": 940
+            },
+            "small": {
+              "height": 868,
+              "href": "https://smallprox.vj.test.tools.bbc.co.uk/idt2/ae805ced-e912-4f89-a9f5-105510946fad/image/350",
+              "width": 700
+            }
+          },
+          "published": 1551269311181
+        },
+        "platform": "highweb",
+        "required": false,
+        "title": "IDT2 - multiple meanings of the vote",
+        "type": "include"
+      },
+      {
+        "markupType": "plain_text",
+        "text": "Mu gihe hakomeje ibikorwa byo kwiyamamaza bihuza abantu benshi cyane begeranye, hari abagaragaza impungenge ko iki cyorezo gishobora kwiyongera mu gihugu. ",
+        "type": "paragraph"
+      },
+      {
+        "href": "/include/newsspec/21841-green-diet/gahuza/app?responsive=true&newsapps=true&app-image=https://news.files.bbci.co.uk/vj/live/idt-images/image-slider-asdf/app_launcher_ws_640_7ania.png&app-clickable=true&amp-clickable=true&amp-image-height=360&amp-image-width=640&amp-image=https://news.files.bbci.co.uk/vj/live/idt-images/image-slider-asdf/app_launcher_ws_640_7ania.png",
+        "platform": "highweb",
+        "required": false,
+        "title": "Visual journalism interactive",
+        "type": "include"
+      },
+      {
+        "markupType": "plain_text",
+        "text": "Paragraph Mu kiganiro n'abanyamakuru muri World Economic Forum, Madamu Moeti yagize ati: &quot;Ntabwo tuzi impamvu bafashe icyo cyemezo ariko turi gufatanya n'abakozi ba UN muri icyo gihugu ngo bafashe bagenzi bacu kuhava&quot;.",
+        "type": "paragraph"
+      },
+      {
+        "markupType": "plain_text",
+        "text": "This is the end.",
+        "type": "paragraph"
+      }
+    ]
+  },
+  "metadata": {
+    "analyticsLabels": {
+      "counterName": "gahuza.story.23302543.page",
+      "cps_asset_id": "23302543",
+      "cps_asset_type": "sty"
+    },
+    "blockTypes": [
+      "image",
+      "paragraph",
+      "crosshead",
+      "include",
+      "list",
+      "heading",
+      "media"
+    ],
+    "createdBy": "gahuza-v6",
+    "firstPublished": 1589804827000,
+    "id": "urn:bbc:ares::asset:gahuza/23302543",
+    "includeComments": false,
+    "language": "rw",
+    "lastPublished": 1589804827000,
+    "lastUpdated": 1589819896015,
+    "locators": {
+      "assetId": "23302543",
+      "assetUri": "/gahuza/23302543",
+      "cpsUrn": "urn:bbc:content:assetUri:gahuza/23302543",
+      "curie": "http://www.bbc.co.uk/asset/6da954f1-1855-d241-825d-4ac2a460c81f"
+    },
+    "options": {
+      "allowAdvertising": true,
+      "allowDateStamp": true,
+      "allowHeadline": true,
+      "allowPrintingSharingLinks": true,
+      "allowRelatedStoriesBox": true,
+      "allowRightHandSide": true,
+      "hasContentWarning": false,
+      "hasNewsTracker": false,
+      "includeComments": false,
+      "isBreakingNews": false,
+      "isFactCheck": false,
+      "isIgorSeoTagsEnabled": false,
+      "isKeyContent": false,
+      "suitableForSyndication": true
+    },
+    "passport": {
+      "campaigns": [
+        {
+          "campaignId": "5ad86270c93a9f000eecb255",
+          "campaignName": "Amuse me"
+        }
+      ],
+      "category": {
+        "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-news/News",
+        "categoryName": "News"
+      },
+      "taggings": []
+    },
+    "tags": {
+      "about": [
+        {
+          "thingId": "e7539dc8-5cfb-413a-b4fe-0ad77bc665aa",
+          "thingLabel": "Amakuru y'ikinyoma",
+          "thingSameAs": [
+            "http://dbpedia.org/resource/Fake_news",
+            "http://www.wikidata.org/entity/Q28549308"
+          ],
+          "thingType": [
+            "core:Theme",
+            "tagging:TagConcept",
+            "core:Thing"
+          ],
+          "thingUri": "http://www.bbc.co.uk/things/e7539dc8-5cfb-413a-b4fe-0ad77bc665aa#id"
+        }
+      ]
+    },
+    "timestamp": 1589804827000,
+    "type": "STY",
+    "version": "v1.3.0"
+  },
+  "promo": {
+    "byline": {
+      "name": "Rami Ruhayem",
+      "persons": [
+        {
+          "function": "BBC News, Baghdad",
+          "name": "Rami Ruhayem",
+          "thumbnail": "http://wwwpreview.test.newsonline.tc.nca.bbc.co.uk/media/images/59483000/jpg/_59483974_59483973.jpg"
+        }
+      ],
+      "title": "BBC News, Baghdad"
+    },
+    "headlines": {
+      "headline": "Headline ko itazi impamvu abakozi bayo birukanwe mu Burundi",
+      "shortHeadline": "Headline ko itazi impamvu"
+    },
+    "id": "urn:bbc:ares::asset:gahuza/23302543",
+    "indexImage": {
+      "altText": "Test caption for image",
+      "caption": "Test caption for image 1",
+      "copyrightHolder": "BBC",
+      "height": 549,
+      "href": "http://b.files.bbci.co.uk/F5DF/test/_63734926_3.jpg",
+      "id": "63734926",
+      "path": "/cpsdevpb/F5DF/test/_63734926_3.jpg",
+      "subType": "index",
+      "type": "image",
+      "width": 976
+    },
+    "language": "rw",
+    "locators": {
+      "assetId": "23302543",
+      "assetUri": "/gahuza/23302543",
+      "cpsUrn": "urn:bbc:content:assetUri:gahuza/23302543",
+      "curie": "http://www.bbc.co.uk/asset/6da954f1-1855-d241-825d-4ac2a460c81f"
+    },
+    "passport": {
+      "campaigns": [
+        {
+          "campaignId": "5ad86270c93a9f000eecb255",
+          "campaignName": "Amuse me"
+        }
+      ],
+      "category": {
+        "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-news/News",
+        "categoryName": "News"
+      },
+      "taggings": []
+    },
+    "summary": "Dr Matshidiso Moeti ukuriye OMS/WHO muri Afurika yabwiye abanyamakuru ko ubu bari kuvana abakozi bayo birukanwe mu Burundi nyuma y'uko leta ivuze ko badashaka mugihugu.",
+    "timestamp": 1589804827000,
+    "type": "cps"
+  },
+  "relatedContent": {
+    "groups": [
+      {
+        "promos": [
+          {
+            "cpsType": "STY",
+            "headlines": {
+              "headline": "Intambara yo kubohoza ikivuko ca Hudaydah yatanguye muri Yemen",
+              "shortHeadline": "Intambara yo kubohoza ikivuko ca Hudaydah yatanguye muri Yemen"
+            },
+            "id": "urn:bbc:ares::asset:gahuza/23204135",
+            "indexImage": {
+              "altText": "ikivuko ca Hudaydah",
+              "caption": "Ikivuko ca Hudaydah muri Yemen kiriko kiragwanirwa",
+              "copyrightHolder": "AFP/Getty",
+              "height": 549,
+              "href": "http://b.files.bbci.co.uk/8226/test/_63681333_002564611-1.jpg",
+              "id": "63681333",
+              "path": "/cpsdevpb/8226/test/_63681333_002564611-1.jpg",
+              "subType": "index",
+              "type": "image",
+              "width": 976
+            },
+            "language": "rw",
+            "locators": {
+              "assetUri": "/gahuza/23204135",
+              "cpsUrn": "urn:bbc:content:assetUri:/gahuza/23204135"
+            },
+            "summary": "Urunani rurongowe na Arabia Saudite rwatanguye ibitero ku kivuko gifise akamaro kanini muri Yemen ca Hudaydah, kiri mu minwe y'abagwani.",
+            "timestamp": 1528888682000,
+            "type": "cps"
+          },
+          {
+            "cpsType": "STY",
+            "headlines": {
+              "headline": "Inama y’umuryango wa Afrika y’ubuseruko yibanda ku ndyane hagati y’Uburundi n’Urwanda",
+              "shortHeadline": "Inama y’umuryango wa Afrika y’ubuseruko yibanda ku ndyane hagati y’Uburundi n’Urwanda"
+            },
+            "id": "urn:bbc:ares::asset:gahuza/23229461",
+            "indexImage": {
+              "altText": "EAC",
+              "caption": "Burundi and Rwanda joined the EAC in 2007 to join Tanzania, Uganda and Kenya",
+              "copyrightHolder": "http://www.statehouse.go.ug",
+              "height": 549,
+              "href": "http://b.files.bbci.co.uk/33F3/test/_63699231_arusha.jpg",
+              "id": "63699231",
+              "path": "/cpsdevpb/33F3/test/_63699231_arusha.jpg",
+              "subType": "index",
+              "type": "image",
+              "width": 976
+            },
+            "language": "rw",
+            "locators": {
+              "assetUri": "/gahuza/23229461",
+              "cpsUrn": "urn:bbc:content:assetUri:/gahuza/23229461"
+            },
+            "summary": "Inama y’umuryango wa Afrika y’ubuseruko yibanda ku ndyane hagati y’Uburundi n’Urwanda",
+            "timestamp": 1549019868000,
+            "type": "cps"
+          }
+        ],
+        "type": "see-alsos"
+      }
+    ],
+    "section": {
+      "name": "Urupapuro rw'itangiriro",
+      "subType": "index",
+      "type": "simple",
+      "uri": "/gahuza/front_page"
+    },
+    "site": {
+      "name": "BBC Gahuza",
+      "subType": "site",
+      "type": "simple",
+      "uri": "/gahuza"
+    }
+  }
+}
